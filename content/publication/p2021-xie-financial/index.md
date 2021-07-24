@@ -2,8 +2,8 @@
 
 ## Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Effects of financial agglomeration on green total factor productivity in Chinese cities:
-  Insights from an empirical spatial Durbin model'
+title: Effects of financial agglomeration on green total factor productivity in Chinese cities:
+  Insights from an empirical spatial Durbin model
 subtitle: ''
 summary: ''
 authors:
