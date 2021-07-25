@@ -164,8 +164,10 @@ Funding sources:
 
 *Related Links:* <br>
 - News report in UNC Discover: [Restoring rural China](https://www.unc.edu/discover/restoring-rural-china/)
+- Qi Zhang's [Mater's Thesis](https://cdr.lib.unc.edu/concern/dissertations/6t053g27c):
+  land use change and forest dynamics under forest conservation policies
 - Qi Zhang's [Doctoral Dissertation](https://www.proquest.com/openview/cf7ea4a23b9daf256f2448658f09f207/1?pq-origsite=gscholar&cbl=18750): 
-  Social-ecological impacts of PES
+  Social-ecological impacts of payments for ecosystem services
 <br>
 <br>
 
