@@ -132,7 +132,7 @@ Find more in the [article](https://www.qzgeog.com/publication/p2019-zhangqi-inco
 <br>
 
 
-Theme 5: Pathways from PES to forest sustianabilty
+**Theme 5: Pathways from PES to forest sustianabilty**
 <br>
 
 We integrates household survey data, satellite imagery, and statistical models to identify socioeconomic and ecological pathways from PES programs to forest sustainability through labor migration. The investigation is carried out at two mountainous sites with distinct biophysical and socioeconomic conditions, one in a subtropical mountainous region (Tianma Nature Reserve, Tiantangzhai, Anhui) and the other in the semi-arid Loess Plateau (Ji County, Shanxi). 
