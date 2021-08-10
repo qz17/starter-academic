@@ -1,6 +1,6 @@
 ---
 title: 'Telecoupling urbanization and mountainous deforestation between 2000 and
-  2020: Evidence from Zhejiang Province, China (PrePrint)'
+  2020: Evidence from Zhejiang Province, China'
 subtitle: ''
 summary: ''
 
@@ -15,10 +15,10 @@ publication_types:
   - "2"
 abstract: ''
 publication: '*Land Degradation and Development*'
-url_pdf: 
+url_pdf: 10.22541/au.161554513.39992175/v1
 
 categories: [Coupled Nature-Human]
-tags: [payments for ecosystem services, forest policy, agent-based modeling, social-ecological dynamics]
+tags: [telecoupling, forest policy, social-ecological dynamics]
 
 date: 2021-06-05T18:52:37.756Z
 
