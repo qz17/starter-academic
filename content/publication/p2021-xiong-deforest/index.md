@@ -15,7 +15,8 @@ publication_types:
   - "2"
 abstract: ''
 publication: '*Land Degradation and Development*'
-url_pdf: 10.22541/au.161554513.39992175/v1
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/ldr.4074
+doi: 10.1002/ldr.4074
 
 categories: [Coupled Nature-Human]
 tags: [telecoupling, forest policy, social-ecological dynamics]
@@ -41,5 +42,4 @@ projects: []
 
 ---
 
-Preprint available at [Authorea](https://www.authorea.com/doi/full/10.22541/au.161554513.39992175)
 
