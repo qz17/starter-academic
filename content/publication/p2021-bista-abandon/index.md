@@ -2,7 +2,7 @@
 
 ## Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Cropland abandonment in the community forestry landscape in the Middle Hills of Nepal'
+title: 'Cropland abandonment in the community-forestry landscape in the middle hills of Nepal'
 subtitle: ''
 summary: ''
 authors:
@@ -17,14 +17,14 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Earth Interactions*'
-url_pdf: https://journals.ametsoc.org/view/journals/eint/aop/EI-D-21-0006.1/EI-D-21-0006.1.xml?rskey=uAOxPz&result=1
+url_pdf: https://journals.ametsoc.org/view/journals/eint/25/1/EI-D-21-0006.1.xml
 doi: 10.1175/EI-D-21-0006.1
 
 categories: [Coupled Nature-Human]
 tags: [cropland abandonment, land use change, forest policy]
 
-date: '2021-07-23'
-lastmod: 2021-07-23T08:00:00-05:00
+date: '2021-08-27'
+lastmod: 2021-08-27T08:00:00-05:00
 
 featured: false
 draft: false
